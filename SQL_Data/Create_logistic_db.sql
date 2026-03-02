@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS logistics_db;
+CREATE DATABASE logistics_db;
+USE logistics_db;
